@@ -1,0 +1,116 @@
+﻿@{
+    ViewData["Title"] = "Work Experience";
+}
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet" />
+
+<style>
+    body {
+        background-color: #ffffff;
+        color: #3f51b5;
+        font-family: 'Segoe UI', sans-serif;
+    }
+
+    .exp-card {
+        background: #B0C4DE;
+        border-radius: 15px;
+        padding: 1.5rem;
+        border: 2px solid #3f51b5;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+        margin-bottom: 2rem;
+        width: 80%;
+    }
+
+    .exp-header h4 {
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: #3f51b5;
+    }
+
+    .exp-header p {
+        font-style: italic;
+        font-size: 1.1rem;
+        font-weight: 400;
+        color: #3f51b5;
+    }
+
+    .metrics {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-top: 1rem;
+    }
+
+    .metric-box {
+        flex: 1;
+        background: #edf2fa;
+        padding: 1rem;
+        text-align: center;
+        border-radius: 10px;
+        min-width: 120px;
+        color: #2c3e8c;
+        transition: background-color 0.2s ease;
+    }
+
+        .metric-box:hover {
+            background-color: #dbe6f1;
+        }
+
+        .metric-box i {
+            font-size: 1.5rem;
+            margin-bottom: 0.5rem;
+            display: block;
+        }
+
+</style>
+
+<div class="container">
+    <div class="title">Work Experience</div>
+
+    <div class="d-flex justify-content-center">
+        <div class="exp-card">
+            <div class="exp-header">
+                <h4>Dot Net Developer</h4>
+                <p><strong>Capgemini Private Limited</strong> – Hyderabad, India</p>
+                <p>Dec 2021 – Nov 2023</p>
+            </div>
+
+            <div class="metrics">
+                <div class="metric-box">
+                    <i class="bi bi-cpu"></i> 25%<br />Performance Boost
+                </div>
+                <div class="metric-box">
+                    <i class="bi bi-diagram-3"></i> 30%<br />Automation Increase
+                </div>
+                <div class="metric-box">
+                    <i class="bi bi-gear-wide-connected"></i> CI/CD<br />Azure DevOps
+                </div>
+            </div>
+
+            <div class="detail">Architected and deployed a microservices-based application using .NET Core and Entity Framework.</div>
+            <div class="detail">Optimized performance using dependency injection and custom middleware components.</div>
+            <div class="detail">Implemented SQL optimizations, increasing data retrieval speed by 25%.</div>
+            <div class="detail">Developed robust backend solutions and RESTful APIs for client-server interaction.</div>
+            <div class="detail">Collaborated with cross-functional teams to ensure web application success.</div>
+            <div class="detail">Created detailed documentation for improved developer onboarding and maintenance.</div>
+            <div class="detail">Streamlined development pipeline with CI/CD using Azure DevOps.</div>
+            <div class="detail">Migrated manual tests to Selenium WebDriver, increasing automation test coverage significantly.</div>
+
+            <div class="mt-3">
+                <span class="skill-badge">C#</span>
+                <span class="skill-badge">.NET Core</span>
+                <span class="skill-badge">ASP.NET MVC</span>
+                <span class="skill-badge">SQL Server</span>
+                <span class="skill-badge">VB.NET</span>
+                <span class="skill-badge">Git</span>
+                <span class="skill-badge">TFS</span>
+                <span class="skill-badge">IVSV</span>
+                <span class="skill-badge">Azure DevOps</span>
+                <span class="skill-badge">Selenium</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>

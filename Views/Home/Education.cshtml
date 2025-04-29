@@ -1,0 +1,85 @@
+﻿@{
+    ViewData["Title"] = "Education";
+}
+
+<style>
+    .section-heading {
+        font-size: 2rem;
+        font-weight: bold;
+        color: #3f51b5;
+        text-align: center;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        position: relative;
+        border-bottom: 3px solid #3f51b5;
+        padding-bottom: 10px;
+    }
+
+    .edu-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+    }
+
+    .edu-card {
+        background-color: #B0C4DE;
+        border-radius: 15px;
+        padding: 1.5rem;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+        border: 2px solid #3f51b5;
+        width: 48%;
+        min-width: 200px;
+    }
+
+    .edu-title {
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: #3f51b5;
+    }
+
+    .edu-subtitle {
+        font-style: italic;
+        font-size: 1.1rem;
+        font-weight: 400;
+        color: #3f51b5;
+        margin-bottom: 0.5rem;
+    }
+
+    .edu-detail {
+        margin-top: 1rem;
+        padding: 0.5rem 1rem;
+        background: #edf2fa;
+        border-left: 5px solid #3f51b5;
+        border-radius: 8px;
+        margin-bottom: 10px;
+        color: #3f51b5;
+    }
+
+    .edu-icon {
+        font-size: 1.2rem;
+        margin-right: 8px;
+    }
+</style>
+
+<div class="container">
+    <div class="section-heading">Education</div>
+
+    <div class="edu-container">
+        <div class="edu-card">
+            <div class="edu-title">Master of Science in Engineering Management</div>
+            <div class="edu-subtitle">St. Cloud State University, Plymouth, MN</div>
+            <div class="edu-detail"><i class="bi bi-calendar3 edu-icon"></i> Sep 2024 – Jun 2026</div>
+            <div class="edu-detail"><i class="bi bi-mortarboard edu-icon"></i> CGPA: 3.5/4</div>
+            <div class="edu-detail"><i class="bi bi-journal-text edu-icon"></i> Coursework: Project Management, AI, Data Analysis</div>
+        </div>
+
+        <div class="edu-card">
+            <div class="edu-title">Bachelor of Technology in Computer Science</div>
+            <div class="edu-subtitle">Sridevi Women’s Engineering College, Hyderabad</div>
+            <div class="edu-detail"><i class="bi bi-calendar3 edu-icon"></i> Jul 2017 – May 2021</div>
+            <div class="edu-detail"><i class="bi bi-mortarboard edu-icon"></i> CGPA: 3.4/4</div>
+            <div class="edu-detail"><i class="bi bi-journal-text edu-icon"></i> Coursework: Data Structures, Algorithms, Software Engineering</div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|c:\\users\\visha\\source\\repos\\vishalaportfolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|c:\\users\\visha\\source\\repos\\vishalaportfolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|c:\\users\\visha\\source\\repos\\vishalaportfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|c:\\users\\visha\\source\\repos\\vishalaportfolio\\views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|solutionrelative:views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|c:\\users\\visha\\source\\repos\\vishalaportfolio\\views\\home\\experience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|solutionrelative:views\\home\\experience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|c:\\users\\visha\\source\\repos\\vishalaportfolio\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|c:\\users\\visha\\source\\repos\\vishalaportfolio\\views\\home\\skills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|solutionrelative:views\\home\\skills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|c:\\users\\visha\\source\\repos\\vishalaportfolio\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|c:\\users\\visha\\source\\repos\\vishalaportfolio\\views\\home\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|solutionrelative:views\\home\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|c:\\users\\visha\\source\\repos\\vishalaportfolio\\views\\home\\certifications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|solutionrelative:views\\home\\certifications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|c:\\users\\visha\\source\\repos\\vishalaportfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|c:\\users\\visha\\source\\repos\\vishalaportfolio\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|c:\\users\\visha\\source\\repos\\vishalaportfolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|c:\\users\\visha\\source\\repos\\vishalaportfolio\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|solutionrelative:models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|c:\\users\\visha\\source\\repos\\vishalaportfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59D95CF2-1719-4138-B59E-7EC3F7A1A387}|VishalaPortfolio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAGYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T21:44:47.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Experience.cshtml",
+              "DocumentMoniker": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\Views\\Home\\Experience.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Experience.cshtml",
+              "ToolTip": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\Views\\Home\\Experience.cshtml",
+              "RelativeToolTip": "Views\\Home\\Experience.cshtml",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAAGEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T02:25:37.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Certifications.cshtml",
+              "DocumentMoniker": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\Views\\Home\\Certifications.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Certifications.cshtml",
+              "ToolTip": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\Views\\Home\\Certifications.cshtml",
+              "RelativeToolTip": "Views\\Home\\Certifications.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAFQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T02:57:14.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Projects.cshtml",
+              "DocumentMoniker": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\Views\\Home\\Projects.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Projects.cshtml",
+              "ToolTip": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\Views\\Home\\Projects.cshtml",
+              "RelativeToolTip": "Views\\Home\\Projects.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAkwEoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T02:59:39.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T15:47:35.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T02:18:02.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-23T22:08:51.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Skills.cshtml",
+              "DocumentMoniker": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\Views\\Home\\Skills.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Skills.cshtml",
+              "ToolTip": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\Views\\Home\\Skills.cshtml",
+              "RelativeToolTip": "Views\\Home\\Skills.cshtml",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAJMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T02:23:40.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAUwFQAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T23:31:09.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThankYou.cshtml",
+              "DocumentMoniker": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\Views\\Home\\ThankYou.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ThankYou.cshtml",
+              "ToolTip": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\Views\\Home\\ThankYou.cshtml",
+              "RelativeToolTip": "Views\\Home\\ThankYou.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T20:15:24.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T23:32:48.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T18:41:14.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\Models\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "Models\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\Models\\EmailSettings.cs",
+              "RelativeToolTip": "Models\\EmailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:34:09.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\EmailService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:31:05.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\visha\\source\\repos\\VishalaPortfolio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwB8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:48:16.42Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
